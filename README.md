@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Lucas199525
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Lucas Siani
+- 👀 I’m interested in Front end developpement 
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on javascript project
+- 📫 How to reach me ... lucasfauresian@gmail.com
 
 <!---
 Lucas199525/Lucas199525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
